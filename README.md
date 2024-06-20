@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Matheus Hossono</h1>
 <h3 align="center">Um estudante de Análise e Desenvolvimento de Sistemas no Instituto Infnet, RJ/SP</h3>
 
-- 🌱 Estou atualmente aprendendo sobre: **HTML, CSS, JavaScript, Interatividade em páginas Webs.**
+- 🌱 Estou atualmente aprendendo sobre: **HTML, CSS, JavaScript, Interatividade em páginas Web.**
 
 - 📫 Contato: **matheushossono@gmail.com**
 
